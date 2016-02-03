@@ -1,6 +1,6 @@
 ﻿/// <reference path="typings/tsd.d.ts" />
 
-import * as classNames from "classnames";
+import classNames from "classnames";
 
 export class Greeter {
     element: HTMLElement;
