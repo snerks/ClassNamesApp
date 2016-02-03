@@ -1,0 +1,7 @@
+{
+  "jspm": {
+    "dependencies": {
+      "classnames": "npm:classnames@^2.2.3"
+    }
+  }
+}
